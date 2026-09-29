@@ -67,7 +67,7 @@ healthcare/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Md-Danyal/healthcare-backend
 cd healthcare
 ```
 
